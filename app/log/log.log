@@ -1,0 +1,47 @@
+[2023-09-30 16:15:42,659] INFO [12305-140467228758016] Will watch for changes in these directories: ['/home/nitin23/Progenesis/EmbryoGrading/DockerContainer/app']
+[2023-09-30 16:15:42,660] WARNING [12305-140467228758016] "workers" flag is ignored when reloading is enabled.
+[2023-09-30 16:15:42,660] INFO [12305-140467228758016] Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+[2023-09-30 16:15:42,660] INFO [12305-140467228758016] Started reloader process [12305] using StatReload
+[2023-09-30 16:15:53,765] INFO [12305-140467228758016] Stopping reloader process [12305]
+[2023-09-30 16:17:55,498] INFO [12991-139751003217920] Will watch for changes in these directories: ['/home/nitin23/Progenesis/EmbryoGrading/DockerContainer/app']
+[2023-09-30 16:17:55,499] WARNING [12991-139751003217920] "workers" flag is ignored when reloading is enabled.
+[2023-09-30 16:17:55,499] INFO [12991-139751003217920] Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+[2023-09-30 16:17:55,499] INFO [12991-139751003217920] Started reloader process [12991] using StatReload
+[2023-09-30 16:18:00,174] INFO [12991-139751003217920] Stopping reloader process [12991]
+[2023-09-30 16:19:31,194] INFO [13165-140131645452288] Will watch for changes in these directories: ['/home/nitin23/Progenesis/EmbryoGrading/DockerContainer/app']
+[2023-09-30 16:19:31,194] WARNING [13165-140131645452288] "workers" flag is ignored when reloading is enabled.
+[2023-09-30 16:19:31,194] INFO [13165-140131645452288] Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+[2023-09-30 16:19:31,194] INFO [13165-140131645452288] Started reloader process [13165] using StatReload
+[2023-09-30 16:19:40,183] INFO [13165-140131645452288] Stopping reloader process [13165]
+[2023-09-30 16:20:13,423] INFO [13224-139818924892160] Will watch for changes in these directories: ['/home/nitin23/Progenesis/EmbryoGrading/DockerContainer/app']
+[2023-09-30 16:20:13,423] WARNING [13224-139818924892160] "workers" flag is ignored when reloading is enabled.
+[2023-09-30 16:20:13,423] INFO [13224-139818924892160] Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+[2023-09-30 16:20:13,423] INFO [13224-139818924892160] Started reloader process [13224] using StatReload
+[2023-09-30 16:20:19,509] INFO [13224-139818924892160] Stopping reloader process [13224]
+[2023-09-30 16:20:35,691] INFO [13274-139663562551296] Will watch for changes in these directories: ['/home/nitin23/Progenesis/EmbryoGrading/DockerContainer/app']
+[2023-09-30 16:20:35,691] WARNING [13274-139663562551296] "workers" flag is ignored when reloading is enabled.
+[2023-09-30 16:20:35,691] INFO [13274-139663562551296] Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+[2023-09-30 16:20:35,692] INFO [13274-139663562551296] Started reloader process [13274] using StatReload
+[2023-09-30 16:20:43,616] INFO [13274-139663562551296] Stopping reloader process [13274]
+[2023-09-30 16:20:51,904] INFO [13318-140167563427840] Will watch for changes in these directories: ['/home/nitin23/Progenesis/EmbryoGrading/DockerContainer/app']
+[2023-09-30 16:20:51,904] WARNING [13318-140167563427840] "workers" flag is ignored when reloading is enabled.
+[2023-09-30 16:20:51,904] INFO [13318-140167563427840] Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
+[2023-09-30 16:20:51,904] INFO [13318-140167563427840] Started reloader process [13318] using StatReload
+[2023-09-30 16:20:53,156] INFO [13320-139702817996800] Started server process [13320]
+[2023-09-30 16:20:53,156] INFO [13320-139702817996800] Waiting for application startup.
+[2023-09-30 16:20:53,156] INFO [13320-139702817996800] Running envirnoment: development
+[2023-09-30 16:20:53,156] INFO [13320-139702817996800] PyTorch using device: cuda
+[2023-09-30 16:20:54,342] INFO [13320-139702817996800] Application startup complete.
+[2023-09-30 16:21:54,259] INFO [13320-139702817996800] Shutting down
+[2023-09-30 16:21:54,360] INFO [13320-139702817996800] Waiting for application shutdown.
+[2023-09-30 16:21:54,360] INFO [13320-139702817996800] Application shutdown complete.
+[2023-09-30 16:21:54,360] INFO [13320-139702817996800] Finished server process [13320]
+[2023-09-30 16:21:54,692] INFO [13318-140167563427840] Stopping reloader process [13318]
+[2023-09-30 16:27:18,163] INFO [13611-139731399868416] Running envirnoment: development
+[2023-09-30 16:27:18,163] INFO [13611-139731399868416] PyTorch using device: cuda
+[2023-09-30 16:27:18,191] INFO [13612-139731399868416] Running envirnoment: development
+[2023-09-30 16:27:18,191] INFO [13612-139731399868416] PyTorch using device: cuda
+[2023-09-30 16:44:46,834] INFO [14474-140304407367680] Running envirnoment: development
+[2023-09-30 16:44:46,834] INFO [14474-140304407367680] PyTorch using device: cuda
+[2023-09-30 16:44:46,885] INFO [14506-140304407367680] Running envirnoment: development
+[2023-09-30 16:44:46,885] INFO [14506-140304407367680] PyTorch using device: cuda
